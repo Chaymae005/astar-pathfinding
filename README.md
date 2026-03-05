@@ -6,10 +6,12 @@ logistique, avec 22 obstacles. Il met l'accent sur l'explicabilité — visualis
 du chemin optimal et interprétation des décisions prises à chaque étape.
 
 ##Auteurs
-Chaymae Yassine
-Maroua Sfaoui
-Bassma Cheamou El Fihri
-Rania Bennani
+* **Chaymae Yassine**
+* **Maroua Sfaoui**
+* **Bassma Cheamou El Fihri**
+* **Rania Bennani**
+
+---
 
 ## Structure du projet
 astar-pathfinding/
