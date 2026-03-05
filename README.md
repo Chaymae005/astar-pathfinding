@@ -5,7 +5,7 @@ Ce projet implémente l'algorithme A* sur une grille 10×10 représentant un ent
 logistique, avec 22 obstacles. Il met l'accent sur l'explicabilité — visualisation 
 du chemin optimal et interprétation des décisions prises à chaque étape.
 
-##Auteurs
+## Auteurs
 * **Chaymae Yassine**
 * **Maroua Sfaoui**
 * **Bassma Cheamou El Fihri**
